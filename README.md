@@ -1,7 +1,7 @@
 # AIRBNB LISTING & REVENUE ANALYSIS
 
 
-Project_Link :- 
+Project_Link :- https://github.com/Afthab29/Power_BI_Project_2
 
 
 ## 📌 Project Overview
